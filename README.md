@@ -1,5 +1,4 @@
 BDD, TDD Cycle
-
 //Run server
 rails server -b $IP -p $PORT
 
